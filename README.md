@@ -1,4 +1,22 @@
-### Hi there 👋
+# Soy Lautaro Ferrario 💼.
+---
+## Sé estos lenguajes y herramientas 💼:
+- HTML
+- CSS
+- Bootstrap
+- SASS
+- JavaScript
+- React
+- Node.js
+- Terminal
+- Git
+- GitHub
+- Figma
+- Adobe XD
+---
+### Mail:
+_Lautiferrario@gmail.com_
+
 
 <!--
 **Lautar1to/Lautar1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
