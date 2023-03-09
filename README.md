@@ -38,6 +38,8 @@
 
 </div>
 
+<div align="center">
+  
 <!--START_SECTION:waka-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lautar1to)](https://github.com/anuraghazra/github-readme-stats)
 
